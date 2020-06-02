@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v1.5.96
+## (2020-06-02)
+
+* Add effective speed in flash results [Alexis Svinartchouk]
+* Update progress bar style [Alexis Svinartchouk]
+* Change font to SourceSansPro and fix hover color [Alexis Svinartchouk]
+* Update rendition to ^14.13.0 [Alexis Svinartchouk]
+* Remove unused styles [Alexis Svinartchouk]
+
 # v1.5.95
 ## (2020-06-01)
 
